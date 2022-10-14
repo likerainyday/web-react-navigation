@@ -27,7 +27,7 @@
   ],
   "peerDependencies": {
     "react": "*",
-    "react-native": "*",
+    "react-native": "*"
   },
   "dependencies": {
     "clamp": "^1.0.1",
