@@ -27,8 +27,8 @@
     "NavigationTestUtils.js"
   ],
   "peerDependencies": {
-    "react":"*",
-    "react-native":"*",
+    "react": "*",
+    "react-native": "*",
     "clamp": "^1.0.1",
     "create-react-context": "0.2.2",
     "hoist-non-react-statics": "^2.2.0",
@@ -64,8 +64,6 @@
     "lint-staged": "^4.2.1",
     "prettier": "^1.12.1",
     "prettier-eslint": "^8.8.1",
-    "react": "16.5.2",
-    "react-native": "^0.52.0",
     "react-native-vector-icons": "^4.2.0",
     "react-test-renderer": "^16.0.0"
   },
